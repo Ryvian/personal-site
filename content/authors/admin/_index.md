@@ -21,7 +21,7 @@ organizations:
 bio: My research interests include systems reliability, distributed systems and data mining.
 
 interests:
-- System Reliability
+- System Reliability & Security
 - Distributed Systems
 - Data Mining
 
