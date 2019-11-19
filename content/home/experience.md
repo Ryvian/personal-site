@@ -18,27 +18,29 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Visiting Student Researcher"
+  company = "Pennsylvania State University"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  location = "University Park, Pennsylvaina"
+  date_start = "2019-07-07"
+  date_end = "2019-09-16"
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  Advisor: Prof. Linhai Song
+  * Built a tool to visualize critical sections in Rust, to help developers avoid double-locking bugs
+  * Workded on measurement and comparison of anti-virus engines, to suggest ways for researchers to using VirusTotal reliably
+
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Undergraduate Researcher"
+  company = "LIKE Lab, University of Science and Technology of China"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Hefei, China"
+  date_start = "2019-03-01"
+  date_end = "2016-07-31"
+  description = """
+  Advisor: Prof. Yu Zhang
+  * Developed a system to verify TAP rules against LTL assertions in intelligent home ap-
+plications, using MCMAS"""
 
 +++
