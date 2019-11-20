@@ -1,2 +1,2 @@
 # Personal Site
-Personal website using Hugo.
+Personal website using Academic.
