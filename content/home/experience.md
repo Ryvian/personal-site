@@ -24,13 +24,13 @@ date_format = "Jan 2006"
   location = "University Park, Pennsylvaina"
   date_start = "2019-07-07"
   date_end = "2019-09-16"
-  description = "
+  description = """
   Advisor: Prof. Linhai Song
 
    * Built a tool to visualize critical sections in Rust, to help developers avoid double-locking bugs
    * Workded on measurement and comparison of anti-virus engines, to suggest ways for researchers to using VirusTotal reliably
 
-  "
+  """
 
 [[experience]]
   title = "Undergraduate Researcher"
@@ -39,9 +39,10 @@ date_format = "Jan 2006"
   location = "Hefei, China"
   date_start = "2019-03-01"
   date_end = "2016-07-31"
-  description = "
+  description = """
   Advisor: Prof. Yu Zhang
-  
-   * Developed a system to verify TAP rules against LTL assertions in intelligent home applications, using MCMAS"
+
+   * Developed a system to verify TAP rules against LTL assertions in intelligent home applications, using MCMAS
+   """
 
 +++
