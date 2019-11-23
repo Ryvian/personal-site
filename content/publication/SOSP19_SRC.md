@@ -15,10 +15,10 @@ publishDate: "2019-11-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Student Research Competition* of *Symposium on Operating Systems Principles 2019*
-publication_short: In *SRC* of *SOSP'19*
+publication: In *Student Research Competition* of *Symposium on Operating Systems Principles 2019*, won Silver Medal
+publication_short: In *SRC* of *SOSP'19*, won Silver Medal
 
-abstract: Rust is a young and increasingly popular systems programming language aimed at providing high performance and safety. Locking mechanism in Rust is based on lifetime rules, different from other programming languages. However, lifetime rules in Rust is complex, and according to our empirical study, Rust developers are prone to introduce deadlock bugs because of misdunderstanding of critical sections of locks. We built a tool that can correctly visualize critical sections, implemented as an IDE plugin, to help Rust developers avoid such bugs.
+abstract: Rust is a young and increasingly popular systems programming language aimed at providing high performance and safety. Locking mechanism in Rust is based on lifetime rules, different from other programming languages. However, lifetime rules in Rust is complex, and according to our empirical study, Rust developers are prone to introduce deadlock bugs because of misdunderstanding of critical sections of locks. We built a tool, implemented as an IDE plugin, that can correctly visualize critical sections to help Rust developers avoid such bugs.
 
 # Summary. An optional shortened abstract.
 summary: []
@@ -28,8 +28,8 @@ tags:
 featured: true
 
 links: []
-# - name: Custom Link
-#   url: http://example.org
+# - name: link
+#   url: '#'
 # url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 # url_code: '#'
 # url_dataset: '#'
