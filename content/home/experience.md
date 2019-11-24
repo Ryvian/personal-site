@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   Advisor: Prof. Linhai Song
 
    * Built a tool to visualize critical sections in Rust, to help developers avoid double-locking bugs
-   * Workded on measurement and comparison of anti-virus engines, to suggest ways for researchers to using VirusTotal reliably
+   * Worked on measurement and comparison of anti-virus engines, to suggest ways for researchers to using VirusTotal reliably
 
   """
 
