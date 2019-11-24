@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Undergraduate (4th year)
+role: Undergraduate in Computer Science
 
 # Organizations/Affiliations
 organizations:
@@ -27,9 +27,9 @@ interests:
 
 education:
   courses:
-  - course: Undergraduate in Computer Science
+  - course: BSc in Computer Science
     institution: University of Science and Technology of China
-    year: 2016 - 2020 (expected)
+    year: 2016 - 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
