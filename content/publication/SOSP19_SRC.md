@@ -21,7 +21,7 @@ publication_short: In *SRC* of *SOSP'19*, won Silver Medal
 abstract: Rust is a young and increasingly popular systems programming language aimed at providing high performance and safety. Locking mechanism in Rust is based on lifetime rules, different from other programming languages. However, lifetime rules in Rust is complex, and according to our empirical study, Rust developers are prone to introduce deadlock bugs because of misdunderstanding of critical sections of locks. We built a tool, implemented as an IDE plugin, that can correctly visualize critical sections to help Rust developers avoid such bugs.
 
 # Summary. An optional shortened abstract.
-summary: []
+# summary: []
 
 tags:
 - Source Themes
@@ -41,7 +41,7 @@ links: []
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image: []
+# image: []
 #   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
 #   focal_point: ""
 #   preview_only: false
@@ -51,7 +51,7 @@ image: []
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+# projects: []
 # - internal-project
 
 # Slides (optional).
@@ -59,6 +59,6 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: []
+# slides: []
 ---
 
