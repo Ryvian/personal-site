@@ -13,4 +13,3 @@ title = "Biography"
 author = "admin"
 +++
 
-I am a 4th year undergraduate student at the University of Science and Technology of China. I am interested in research in systems area (reliability & security, distributed systems), as well as data mining. See my CV for details.

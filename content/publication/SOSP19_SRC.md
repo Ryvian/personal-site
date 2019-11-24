@@ -18,7 +18,7 @@ publication_types: ["1"]
 publication: In *Student Research Competition* of *Symposium on Operating Systems Principles 2019*, won Silver Medal
 publication_short: In *SRC* of *SOSP'19*, won Silver Medal
 
-abstract: Rust is a young and increasingly popular systems programming language aimed at providing high performance and safety. Locking mechanism in Rust is based on lifetime rules, different from other programming languages. However, lifetime rules in Rust is complex, and according to our empirical study, Rust developers are prone to introduce deadlock bugs because of misdunderstanding of critical sections of locks. We built a tool, implemented as an IDE plugin, that can correctly visualize critical sections to help Rust developers avoid such bugs.
+abstract: Rust is a young and increasingly popular systems programming language aimed at providing both high performance and safety. Locking mechanism in Rust is based on lifetime rules, different from other programming languages. However, lifetime rules in Rust is complex, and according to our empirical study, Rust developers are prone to introduce deadlock bugs because of misdunderstanding of critical sections of locks. We built a tool, implemented as an IDE plugin, that can correctly visualize critical sections to help Rust developers avoid such bugs.
 
 # Summary. An optional shortened abstract.
 # summary: []
