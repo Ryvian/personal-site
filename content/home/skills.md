@@ -16,31 +16,35 @@ subtitle = ""
 
 [[feature]]
   <!-- icon = "r-project" -->
-  <!-- icon = "" -->
+  icon = ""
   icon_pack = "fab"
   name = "C/C++"
   description = []
   
 [[feature]]
   <!-- icon = "chart-line" -->
+  icon = ""
   icon_pack = "fas"
   name = "Rust"
   description = []
   
 [[feature]]
   <!-- icon = "camera-retro" -->
+    icon = ""
   icon_pack = "fas"
   name = "Python"
   description = []
 
 [[feature]]
   <!-- icon = "camera-retro" -->
+    icon = ""
   icon_pack = "fas"
   name = "Verilog"
   description = []
 
 [[feature]]
   <!-- icon = "camera-retro" -->
+    icon = ""
   icon_pack = "fas"
   name = "TensorFlow"
   description = []
