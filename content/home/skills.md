@@ -15,31 +15,32 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
+  <!-- icon = "r-project" -->
+  <!-- icon = "" -->
   icon_pack = "fab"
   name = "C/C++"
   description = []
   
 [[feature]]
-  icon = "chart-line"
+  <!-- icon = "chart-line" -->
   icon_pack = "fas"
   name = "Rust"
   description = []
   
 [[feature]]
-  icon = "camera-retro"
+  <!-- icon = "camera-retro" -->
   icon_pack = "fas"
   name = "Python"
   description = []
 
 [[feature]]
-  icon = "camera-retro"
+  <!-- icon = "camera-retro" -->
   icon_pack = "fas"
   name = "Verilog"
   description = []
 
 [[feature]]
-  icon = "camera-retro"
+  <!-- icon = "camera-retro" -->
   icon_pack = "fas"
   name = "TensorFlow"
   description = []
