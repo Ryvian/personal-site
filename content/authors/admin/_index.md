@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include systems reliability, distributed systems and data mining.
+bio: My research interests are computer systems.
 
 interests:
 - System Reliability & Security
