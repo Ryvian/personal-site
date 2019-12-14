@@ -23,7 +23,7 @@ bio: My research interests include systems reliability, distributed systems and 
 interests:
 - System Reliability & Security
 - Distributed Systems
-- Data Mining
+- Internet of Things
 
 education:
   courses:
