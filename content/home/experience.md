@@ -38,7 +38,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Hefei, China"
   date_start = "2019-03-01"
-  date_end = "2016-07-31"
+  date_end = "2019-07-31"
   description = """
   Advisor: Prof. Yu Zhang
 
