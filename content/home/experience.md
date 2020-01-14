@@ -34,7 +34,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Undergraduate Researcher"
-  company = "LIKE Lab, University of Science and Technology of China"
+  company = "University of Science and Technology of China"
   company_url = ""
   location = "Hefei, China"
   date_start = "2019-03-01"
